@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "236193510791",
+    "project_id": "laundary-app-2ace8",
+    "storage_bucket": "laundary-app-2ace8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236193510791:android:419efa8f1f4d26aa8a4f22",
+        "android_client_info": {
+          "package_name": "com.LaundaryApp.assignment_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236193510791-qqsd358o21l0ad01d2vbebbpcih64pd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB_adwUzsE0WsdjVDhNKkVsMVYUfcl8IE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236193510791-qqsd358o21l0ad01d2vbebbpcih64pd6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
